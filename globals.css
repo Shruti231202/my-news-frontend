@@ -1,0 +1,34 @@
+/* Tailwind base + components + utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global helpers and small utilities */
+
+/* Clamp text to 2 lines (simple CSS fallback when Tailwind line-clamp plugin is not used) */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Ensure long words wrap instead of overflowing */
+.break-words {
+  word-break: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Optional: small prose tweaks for article content */
+.prose {
+  line-height: 1.6;
+  font-size: 1rem;
+  color: #111827; /* gray-900 */
+}
+
+/* Accessibility: visible focus outlines for keyboard users */
+:focus {
+  outline: 2px solid transparent;
+  outline-offset: 2px;
+  box-shadow: 0 0 0 3px rgba(99,102,241,0.25); /* indigo-500 @ 25% */
+}

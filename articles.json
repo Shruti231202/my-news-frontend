@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "title": "India Sees Surge in Renewable Energy Projects",
+    "summary": "A recent report shows increased investment in solar and wind projects across multiple states...",
+    "content": "India is experiencing a notable increase in renewable energy projects driven by a mix of government incentives, falling equipment costs, and private investment.\n\nSolar parks and wind farms have seen the most growth, with several large-scale projects announced in the last quarter alone. These projects are expected to contribute significantly to green power targets for the next decade.\n\nState governments have also introduced measures to fast-track approvals and ease land acquisition processes while protecting local communities with better consultation and resettlement provisions. Analysts say this combination of policy support and private capital is likely to accelerate capacity additions.\n\nHowever, challenges remain: grid integration of intermittent power, storage solutions to smooth supply, and local supply-chain development for components. Stakeholders recommend that investment in grid modernization and storage technologies be prioritized alongside the expansion of generation capacity.",
+    "image": "/images/renewable.jpg",
+    "category": "National",
+    "author": "A. Reporter",
+    "published_at": "2025-11-25T08:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Stock Markets Open High as Tech Stocks Rally",
+    "summary": "Tech indices led the gains amid positive earnings reports...",
+    "content": "Shares of several technology companies surged at the opening bell today after better-than-expected quarterly results and upbeat forward guidance.\n\nAnalysts attributed the rally to strong demand in cloud services and improved ad revenues. Investors were particularly encouraged by cost-control measures reported by several firms, which led to margin expansion.\n\nMarket breadth remained healthy, with gains seen across multiple sectors, although small-cap stocks lagged behind the broader indices. Market strategists cautioned that valuations for some high-growth names remain elevated and recommended selective exposure based on fundamentals.\n\nLooking ahead, traders will keep an eye on upcoming economic data and central bank commentary for cues on interest rate trajectories that could influence market sentiment.",
+    "image": "/images/markets.jpg",
+    "category": "Business",
+    "author": "Market Desk",
+    "published_at": "2025-11-24T13:30:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Small Town Bakery Becomes Viral Sensation After Video ",
+    "summary": "A bakery's cake-decorating video has gone viral, bringing a flood of orders...",
+    "content": "A small bakery in a townsouth district has found itself at the center of a viral sensation after a short video of its unique cake-decorating technique was shared widely on social platforms.\n\nThe owner, who started the bakery five years ago, says the spike in orders has been both exciting and overwhelming. Local staff have extended hours to keep up with the demand, and customers now travel from neighboring towns to try their pastries.\n\nWhile the viral success has brought significant revenue, it has also created logistical challenges, including supply constraints and the need to maintain product quality at scale. To manage demand sustainably, the bakery is piloting an online ordering system and hiring temporary staff.\n\nCommunity members have rallied around the business: local influencers and the municipal council have promoted the bakery, and a nearby culinary school offered to run a workshop to train new helpers.",
+    "image": null,
+    "category": "Lifestyle",
+    "author": "Local News",
+    "published_at": "2025-11-23T18:00:00Z"
+  }
+]
